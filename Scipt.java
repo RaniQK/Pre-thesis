@@ -1,3 +1,6 @@
+/*YES I AM WRITING A COMIC BOOK SCRIPT WITH A CODE EDITOR.*/
+
+
 int caption;
 int bubble;
 Total page 16;
