@@ -11,17 +11,17 @@ Section 1 {
 	Page 1 { //telling reprequisite. whole page panel
 		caption: In ancient Egyptian mythology, cats played a very important role. It is said that cats ruled humans a long time ago. 
 		caption: They were cunning, cruel and very smart. They drove humans as slaves.
-		caption: Until the end of the dog ’s life When they appeared, they drove the cat away and turned the cat from a ruler into a human pet. So the dog was regarded by the Egyptians as the most important friend in life.
-		bubble: And the Egyptians believed that cats would bring death. //friend holds tea cup
+		caption: Until dogs appeared. they drove the cat away and turned the cat from a ruler into a human pet. So the dog was regarded by the Egyptians as the most important friend in life.
+		bubble: And the Egyptians believed that cats would bring death. //mom holds tea cup //white house cat appears
 	}
 }
 
 Section 2 {
 	Page 2{ //telling reprequisite. whole page panel with crossing captions/bubbles
-		bubble: Does the Egyptian myth only involve cats? //I asked
-		bubble: Of course not. I am telling the story of an oriental cat today. //friend takes a sip
+		bubble: Does the Egyptian myth only involve cats? //I asked my mother
+		bubble: Of course not. I am telling the story of an oriental cat today. //mom takes a sip
 
-		caption: The myth has it that if a creature collects seven wits in the world, it becomes immortal.
+		caption: The myth has it that if a creature collects seven wits in the world, it becomes immortal. //mom
 				 cats too, of course - magical cats collect an extra tail every 20 yrs. Once they have 9 tails, they become immortal.
 		bubble: but that's not easy. for their 9th tail, they have to grant someone's wish, and wish granting takes away one tail. so its a loop.
 
@@ -112,7 +112,7 @@ Section 3 { //story setting, general POV
 
 		caption: the next day
 		bubble: i swear there was some weird light emitting from your house//tiedan
-		bubble: yeah no I dont know what youre talking about.5
+		bubble: yeah no I dont know what youre talking about.
 
 		//grandma
 		caption: ever since, things work out perfectly fine. I know the cat had been blessing me and my family.
@@ -121,7 +121,7 @@ Section 3 { //story setting, general POV
 
 Section 4 {
 	Page 12: 
-		caption: that was the story my great grandmother told about my grandma.
+		caption: that was the story my great grandmother told me when I was little.//mom
 		//g-gramma passes away
 		caption: she passed away due to old age some time after.
 				she was in her chair, and never woke up from her afternoon nap.
@@ -132,7 +132,7 @@ Section 4 {
 		caption: meow 
 		//i look back surprised
 		//the cat was there, huge, 9 tails looking at me softly
-		caption: i wanted to wake my family, but i could not say a word. 
+		caption: i wanted to wake my family, but i could not say a word. //mom
 		//it came near
 
 	Page 14: 
@@ -142,11 +142,11 @@ Section 4 {
 				I know people might laugh at me.
 	Page 15: 
 		bubble: I never saw the nine tailed cat ever since.
-				do you believe me?
-		bubble: of course I do.
+				do you believe me? //mom
+		bubble: of course I do. //child
 		bubble: well, that was quite a story to tell. Im glad you believe me.
 		//pats on shoulder
-		bubble: get some rest now
+		bubble: get some rest now //mom
 		
 	Page 16:
 		//friend's cat comes in
